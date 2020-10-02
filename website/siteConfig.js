@@ -15,7 +15,7 @@ const siteConfig = {
     title: 'Cathylin Wang', // Title for your website.
     tagline: 'Aspiring Software Engineer. Data Enthusiast.',
     profilePhoto: 'img/profile.png',
-    url: 'https://github.com/cathylin-wang', // Your website URL
+    url: 'https://cathylin-wang.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
@@ -23,10 +23,8 @@ const siteConfig = {
 
     // Used for publishing and more
     projectName: 'tech-portfolio',
-    organizationName: 'joatmon08',
+    organizationName: 'cathylin-wang',
     // For top-level user or org sites, the organization is still the same.
-    // e.g., for the https://JoelMarcey.github.io site, it would be set like...
-    //   organizationName: 'JoelMarcey'
 
     // For no header links in the top nav bar -> headerLinks: [],
     headerLinks: [
@@ -67,9 +65,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: '',
-        twitter: '',
-        github: '',
+        linkedin: 'cathylin-wang/',
+        twitter: 'caths_xp',
+        github: 'cathylin-wang',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
